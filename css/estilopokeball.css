@@ -1,0 +1,22 @@
+body{
+    background: url(../img/poke3.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.cuadro {
+	border: 1px solid red;
+	background-color: #fe5f55;
+	margin: 50px;
+} 
+h1 {
+	background-color: #293462;
+	color: #fff;
+}
+img {
+	height: 200px;
+}
+p {
+	color: #FFF;
+	background-color: black;
+	margin: 0.1px;
+	text-align: center;
+}
